@@ -45,7 +45,7 @@ public static void main(String[] args) {
 		
 //		iii. Show that using the index values for the elements is dynamic (works for 
 //		arrays of different lengths).
-//		I show this in examples 1a and 1b.
+//		I show this is 1a, and ii.
 		
 //		c. Use a loop to iterate through the array and calculate the average age. Print 
 //		the result to the console.
